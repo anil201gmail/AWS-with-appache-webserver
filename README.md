@@ -20,8 +20,8 @@ in this task i have hosted my website on aws ec2 instance using apache http webs
  - After installation Putty you will go to Putty gen key In your system . Now Load that key you have </br>
    downloaded Save as private Key and extention must be .ppk 
  - Open Putty <b> now paste your public IP of that Instance you have Created </b> in putty Hostname 
- - Lefthand side you will se SSH <b> go to SSH than Auth  Select Auth now load your ppk key that You have saved </b> 
- - Go to Session page lefthand side select Session page now open accept session
+ - Left-hand side you will se SSH <b> go to SSH then Auth  Select Auth now load your ppk key that You have saved </b> 
+ - Go to Session page left-hand side select Session page now open accept session
  - Login as ec2-user  <b> (Here we dont need password because we have Downloaded SSH Key and inserted in Putty) </b> 
  
  ## Step Inside Putty machine 
